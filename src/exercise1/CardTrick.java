@@ -10,7 +10,7 @@ package exercise1;
  */
 public class CardTrick {
 	//HELLO modifier Devarsh
-	//fetch and merge
+	//fetch and merge branch code
     
     public static void main(String[] args) {
         
